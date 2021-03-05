@@ -1,2 +1,2 @@
-# nudes.github.io
-THP exercice final
+# NUDES-Landing-Page
+THP Landing Page - Exercice final
